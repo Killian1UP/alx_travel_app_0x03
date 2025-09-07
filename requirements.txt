@@ -17,7 +17,6 @@ drf-yasg==1.21.10
 idna==3.10
 inflection==0.5.1
 kombu==5.5.4
-mysql-connector-python==9.3.0
 packaging==25.0
 prompt_toolkit==3.0.51
 python-dateutil==2.9.0.post0
@@ -31,4 +30,8 @@ uritemplate==4.2.0
 urllib3==2.5.0
 vine==5.1.0
 wcwidth==0.2.13
-
+redis==6.4.0
+django-celery-beat==2.8.1
+django_celery_results==2.6.0
+python-crontab==3.3.0
+mysqlclient==2.2.7
